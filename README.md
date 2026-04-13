@@ -1,8 +1,8 @@
-# 📊 Sales Data Analysis: Revenue Drivers & Product Bundling
+# Sales Data Analysis: Revenue Drivers & Product Bundling
 
 This project is a Python-based data analysis script designed to clean, analyze, and compare monthly sales data. It specifically compares sales performance between two periods (e.g., August 2019 vs. December 2019) to uncover key revenue drivers, top-performing cities, and frequently bundled products.
 
-## 🚀 Features
+## Features
 
 The script is divided into three main analytical components:
 
@@ -22,7 +22,7 @@ The script is divided into three main analytical components:
    - Groups items by `Order ID` to find products purchased together.
    - Uses `itertools` and `collections` to identify and rank the **Top 5 most frequently bought together product pairs**.
 
-## 📁 Project Structure
+##  Project Structure
 
 Ensure your project directory looks like this before running the script:
 
